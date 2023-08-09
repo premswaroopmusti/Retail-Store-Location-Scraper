@@ -5,7 +5,7 @@ including websites.
 
 ## Task
 
-Scrape the locations of our favourite retail brand in India and extract the following information:
+Scrape the locations of your favourite retail brand in India and extract the following information:
 
 - Store Name
 - Address
