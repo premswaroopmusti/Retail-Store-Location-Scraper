@@ -17,7 +17,7 @@ Use Python programming language
 
 Once data is extracted, store the data in a CSV file..... :)
 
-Here are the steps that i followed:
+## Here are the steps that i followed:
 
 ### Approach
 
